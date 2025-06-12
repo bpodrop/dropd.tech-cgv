@@ -11,7 +11,7 @@ Ce dépôt contient l’historique des CGV (Conditions Générales de Vente) app
 ## 🔗 Lien contractuel
 
 Le client reconnaît avoir pris connaissance des CGV en vigueur au moment de la signature de la commande ou du devis :  
-**https://github.com/DropD-Tech/dropd-cgv/blob/main/archive/cgv_2025-06-12.md**
+**[CGV applicable](latest.md)**
 
 ---
 
